@@ -1,2 +1,5 @@
 tuanenv/
 .ipynb_checkpoints
+Deep NN Image Classifier/data/
+Deep NN Image Classifier/data1/
+Deep NN Image Classifier/logs/
